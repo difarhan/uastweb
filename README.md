@@ -1,4 +1,4 @@
-# router-project
+# dicky-project
 
 ## Project setup
 ```

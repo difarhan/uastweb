@@ -12,7 +12,7 @@
   <footer class="bg-light text-center text-lg-start">
   <div class="text-center p-2" style="background-color: rgba(255, 247, 247 );">
     © 2022 Copyright :
-    <a class="btn btn-outline-dark btn-floating m-1" href="https://github.com/DikyFar/tugasUas" role="button">Dicky</a>
+    <a class="btn btn-outline-dark btn-floating m-1" href="https://github.com/difarhan/uastweb" role="button">Dicky</a>
   </div>
 </footer>
 <!-- End of .container -->
